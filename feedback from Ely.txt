@@ -5,7 +5,7 @@ PERSON 1
 	- intuition behind why the different models work well for the type of feature, maybe the distributions for diff features are very different or very similar etc. 
 
 
-PERSON 2
+PERSON 2 Reyanne :/
 
 	- make the title more understandable, 
 
