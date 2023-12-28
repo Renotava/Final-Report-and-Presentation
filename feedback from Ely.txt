@@ -1,36 +1,67 @@
- 	- make the title more understandable, 
+PERSON 1 
 
-	- content of the paper incoherent
+	- theoretical explanation of what it does and formulas (supplementary)
 
-	- work more on the report, the format the incoherence
+	- intuition behind why the different models work well for the type of feature, maybe the distributions for diff features are very different or very similar etc. 
 
-	- figures
+
+PERSON 2
+
+	- make the title more understandable, 
 
 	- put number of pages at the end of the pages
+
+	- names in bold
 
 	- no personal pronouns - make it more passive, dont use we or I
 
 	- references BEFORE what is mentioned
 
-	- add generating data stuff to the ethical considerations
-
-	- talk more about the generation of the data - names of celebs= biased tw 	celebrities that are more mentioned in the generation - make mask tags for the 	celebrities
-
 	- indentation in the paragraphs
 
 	- link the github account right below the names
 
-	- everytime we mention it, said if you are allowed to use it or not, mention the 	license
+	- check the quotation marks
+
+	- FIX FORMATTING section 7 
+
+PERSON 3
+
+	- Maxime's carbon footprint 
+
+	- add generating data stuff to the ethical considerations
+
+	- talk more about the generation of the data - names of celebs= biased tw 	celebrities that are more mentioned in the generation
+
+	- make mask tags for the celebrities
+
+
+PERSON 4
+
+	- look for the tools we are using (TCT, dataasets, etc, track their origin and note their license. everytime we mention it, said if 	you are allowed to use it or not, mention the license (supplementary stuff)
+
+	- define tabloid. check that there are definitions for all the things that we are mentioning at least in the supplementary part
+
+	- fix figures
+
+
+PERSON 5 
+
+
+
+	- content of the paper incoherent
+
+	- work more on the report, the format the incoherence
+
+
+
+
 
 	- specify the model reads the whole article, how the info is given
 
-	- define tabloid
-
-	- check the quotation marks
-
 	- focus on the paper first
 
-	- appendix with the supplementary materials, list of features. use the appendix to 	take load off the paper paper. the more theoretical parts that are not crucial 	crucial, try to put it in the appendix. 
+	- appendix with the supplementary materials, list of features. use the appendix to 	take load off the paper paper. the more 	theoretical parts that are not crucial 	crucial, try to put it in the appendix. 
 
 	- when you give values, argument them ("as it is normal practice, etc")
 
